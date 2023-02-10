@@ -4,6 +4,7 @@ from aiogram.dispatcher.filters import Command
 
 from filters import IsPrivate
 from keyboards.default import kb_menu
+# хай
 from loader import dp
 
 from states import register
